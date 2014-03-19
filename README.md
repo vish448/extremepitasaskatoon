@@ -1,4 +1,4 @@
-extremepitasaskatoon.com
+extremepitasaskatoon
 ========================
 
 Website address : www.extremepitasaskatoon.com
